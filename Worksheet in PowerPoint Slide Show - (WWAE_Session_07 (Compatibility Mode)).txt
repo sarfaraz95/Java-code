@@ -1,0 +1,7 @@
+Product Category  ID	Shelf ID	Product Category Name
+1	1020	Grocery
+2	1021	Computers
+3	1022	Electronics
+4	1023	Vegetables
+5	1024	Music and Books
+6	1025	Clothing and Accessories
